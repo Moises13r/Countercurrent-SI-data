@@ -1,6 +1,6 @@
 # Countercurrent-SI-data
 
-Here is documented all numerical results obtained with two-dimenssional numerical simulations and the semi-analytical model
+Here is documented all numerical results obtained with two-dimensional numerical simulations and the semi-analytical model
 
 File Name  ===== Description of data contained in it 
 
