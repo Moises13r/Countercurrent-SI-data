@@ -16,6 +16,5 @@ NRSM - Fracture ===== Numerical results with the semi-analytical model for the f
 
 NRSM - Matrix ===== Numerical results with the semi-analytical model for the matrix
 
-Rel&Cap data ===== Relative permeability and capillary pressure data.
 
 
